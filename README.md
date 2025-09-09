@@ -14,7 +14,8 @@ Hi, I’m Hicham—a Senior Full-Stack Developer and Technical Lead with a passi
 
 **System Optimization**: Enhanced performance through data modeling, API security, and streamlined AWS-based deployment pipelines, improving user experience and reducing latency.
 
-**- Core Skills**
+- **Core skills**
+
 
 **Full-Stack Expertise**: Proficient in React Native, PHP, Laravel, Slim Framework, HTML, CSS, JavaScript, and modern frontend frameworks, with deep knowledge of API design and database management (SQL/NoSQL).
 
